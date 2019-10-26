@@ -4,7 +4,7 @@
 Content from cell 1 | 
 ------------ | 
 
-[![button](https://upload.wikimedia.org/wikipedia/fr/8/81/Centre—Beaubourg-Pompidou_1977_logo.png)](https://ismaelalt.github.io/art_session/)
+[![button]()](https://ismaelalt.github.io/art_session/)
 
 ## Welcome to GitHub Pages
 
