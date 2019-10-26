@@ -1,8 +1,8 @@
-[Hello its me](http://www.google.com){: .btn .btn-outline .mr-10}
+[Hello its me](http://www.google.com){: .btn .btn-outline .mr-4}
 
 [![button]()](https://ismaelalt.github.io/art_session/)
 
-## Welcome to GitHub Pages loo
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ismaelalt/art_session/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
