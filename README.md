@@ -1,8 +1,4 @@
-## Art Session
-
------------- | 
-Content from cell 1 | 
------------- | 
+[Click me](http://www.google.com){: .btn}
 
 [![button]()](https://ismaelalt.github.io/art_session/)
 
