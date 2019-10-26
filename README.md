@@ -1,7 +1,8 @@
 ## Art Session
 
------------- | -------------
-Content from cell 1 | Content from cell 2
+------------ | 
+Content from cell 1 | 
+------------ | 
 
 
 ## Welcome to GitHub Pages
