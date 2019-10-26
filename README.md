@@ -1,4 +1,4 @@
-[Hello its me](http://www.google.com){: .btn .btn-outline}
+[Hello its me](http://www.google.com){: .btn .btn-outline .mr-10}
 
 [![button]()](https://ismaelalt.github.io/art_session/)
 
