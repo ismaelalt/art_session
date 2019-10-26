@@ -4,6 +4,7 @@
 Content from cell 1 | 
 ------------ | 
 
+[Button](hello)
 
 ## Welcome to GitHub Pages
 
