@@ -1,3 +1,9 @@
+## Art Session
+
+------------ | -------------
+Content from cell 1 | Content from cell 2
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ismaelalt/art_session/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
