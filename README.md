@@ -4,7 +4,7 @@
 
 [![button]()](https://ismaelalt.github.io/art_session/)
 
-## Welcome to GitHub Pages aaaaa
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ismaelalt/art_session/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
