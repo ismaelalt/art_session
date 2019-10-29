@@ -1,2 +1,2 @@
-remote_theme: thiagorossener/jekflix-template
+theme : jekyll-theme-cayman
 show_downloads: true
