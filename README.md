@@ -1,6 +1,8 @@
 <span class="fs-10">
-[Hello its me](http://www.google.com){: .btn .btn-outline .mr-4}
+[Hello its me](http://www.google.com){: .btn}
 <span/>
+  
+ <button type="button" class="btn btn-primary">Primary</button>
 
 [![button]()](https://ismaelalt.github.io/art_session/)
 
